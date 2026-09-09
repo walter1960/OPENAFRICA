@@ -1,28 +1,33 @@
-# Mina / Gen (Gɛ̀ngbe) - Togo
+# Mina / Gen (Gengbe) - Togo
 
 * **Code ISO 639-3** : `gej`
-* **Famille linguistique** : Niger-Congo $\rightarrow$ Kwa $\rightarrow$ Gbe $\rightarrow$ Gen
-* **Locuteurs au Togo** : Plus de 2 millions (véhiculaire universel du commerce urbain à Lomé)
-* **Aire géographique** : Préfecture des Lacs (Aného, Glidji, Agbodrafo), Lomé Commune, Golfe, littoral togolais.
+* **Famille linguistique** : Niger-Congo / Kwa / Gbe / Gen
+* **Locuteurs au Togo** : Plus de 2 millions (vehiculaire universel du commerce urbain a Lome)
+* **Aire geographique** : Prefecture des Lacs (Aneho, Glidji, Agbodrafo), Lome Commune, Golfe, littoral togolais.
 
 ---
 
-## Variétés & Contextes d'Usage
+## Varietes et Contextes d'Usage du Mina au Togo
 
-1. **Gen historique (Aného / Glidji)** : La forme classique et cérémonielle, parlée par les descendants des Guins/Gens.
-2. **Mina Koinè urbain (Lomé)** : La variété la plus répandue au Togo, utilisée sur les marchés (Assigamé, Hedzranawoé), dans les taxis, et dans les échanges quotidiens interethniques.
+Le Mina togolais est organise en 4 grands foyers dialectaux et d'usage :
 
----
-
-## Caractéristiques Linguistiques
-
-* **Proximité avec l'Éwé et le Fon** : Le Mina partage une base lexicale massive avec l'Éwé, mais avec une structure grammaticale souvent plus directe et un vocabulaire d'emprunt riche (portugais, anglais, français).
-* **Système tonal** : Langue tonale avec des distinctions de registre nettes.
-* **Vitalité économique** : C'est la langue des affaires informelles, du Mobile Money (Flooz, TMoney), et des transactions rapides.
+| Variete | Prefecture principale | Villes cles | Contexte | Dossier de depot |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lome Urbain (Koine)** | Golfe, Lome Commune | Lome, Assigame, Hedzranawoe | Grand commerce, zemidjans, marches | [Accéder à `lome_urbain/`](lome_urbain/README.md) |
+| **Aneho / Glidji** | Lacs | Aneho, Glidji, Nlessi | Berceau historique royal, Ekpe-Soso | [Accéder à `aneho_glidji/`](aneho_glidji/README.md) |
+| **Agbodrafo (Porto-Seguro)** | Lacs | Agbodrafo, Kpeme, Gbodjome | Littoral cotier, peche, commerce | [Accéder à `agbodrafo/`](agbodrafo/README.md) |
+| **Togoville** | Vo / Lacs | Togoville, Badougbe, Ekpui | Sanctuaire du lac Togo, traditions | [Accéder à `togoville/`](togoville/README.md) |
 
 ---
 
-## Dépôt des Enregistrements
+## Caracteristiques Linguistiques
 
-Déposez vos fichiers directement dans `voix/togo/mina/`.
-Les notes vocales de marchés, discussions spontanées et transactions quotidiennes sont particulièrement recherchées.
+* **Base lexicale et syntaxe** : Le Mina partage un noyau linguistique fort avec l'Ewe et le Fon, mais avec une morphologie verbale simplifiee et une grande velocite conversationnelle.
+* **Langue des affaires** : C'est la langue dominante du Mobile Money (TMoney, Flooz) et de la negociation rapide sur les marches togolais.
+* **Systeme tonal** : Deux tons cardinaux fondamentaux (Haut et Bas) avec des modulations contextuelles.
+
+---
+
+## Depot des Enregistrements
+
+Choisissez directement le sous-dossier correspondant (ex: `lome_urbain/` pour les echanges de marche ou `aneho_glidji/` pour le parler traditionnel).

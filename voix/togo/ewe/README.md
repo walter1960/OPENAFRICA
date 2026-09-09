@@ -1,46 +1,48 @@
-# Éwé (Èʋegbe) - Togo
+# Ewe (Evegbé) - Togo
 
 * **Code ISO 639-3** : `ewe`
-* **Famille linguistique** : Niger-Congo $\rightarrow$ Atlantique-Congo $\rightarrow$ Volta-Congo $\rightarrow$ Kwa $\rightarrow$ Gbe
-* **Locuteurs au Togo** : ~3,5 à 4 millions (langue maternelle et seconde langue)
-* **Aire géographique** : Région Maritime, Région des Plateaux (Lomé, Tsévié, Tabligbo, Kpalimé, Notsé, Atakpamé)
+* **Famille linguistique** : Niger-Congo / Atlantique-Congo / Volta-Congo / Kwa / Gbe
+* **Locuteurs au Togo** : ~3,5 a 4 millions (langue maternelle et seconde langue)
+* **Aire geographique** : Region Maritime, Region des Plateaux (Lome, Tsevie, Tabligbo, Kpalime, Notse, Atakpame)
 
 ---
 
-## Variétés & Dialectes de l'Éwé au Togo
+## Varietes et Dialectes de l'Ewe au Togo
 
-Lors du dépôt de vos enregistrements, vous pouvez préciser la variété locale :
+L'Ewe au Togo possede une grande richesse dialectale. Ce repertoire est subdivise en 9 dossiers de varietes specifiques :
 
-1. **Bè / Lomé (Standard urbain)** : Variété influencée par le Mina, parlée dans la capitale et ses banlieues.
-2. **Kpalimé / Kloto** : Variété des Plateaux, réputée pour sa prosodie claire et son respect rigoureux des registres de tons.
-3. **Anfoin / Tsévié** : Parler de la vallée du Zio et de la préfecture de l'Avé.
-4. **Agu / Adja-Éwé** : Transition avec le pays Adja au Sud-Est.
-5. **Notsé (Gbɛ̃)** : Berceau historique de la migration éwé (Agbogbome).
+| Variete / Dialecte | Prefecture principale | Villes cles | Dossier de depot |
+| :--- | :--- | :--- | :--- |
+| **Be / Lome (Urbain)** | Golfe, Lome Commune | Lome, Be, Agoe, Amoutive | [Accéder à `be_lome/`](be_lome/README.md) |
+| **Kpalime / Kloto (Ewedome)** | Kloto, Kpele | Kpalime, Missahohe, Kouma | [Accéder à `kpalime_kloto/`](kpalime_kloto/README.md) |
+| **Tsevie / Zio** | Zio | Tsevie, Davie, Gbatope | [Accéder à `tsevie_zio/`](tsevie_zio/README.md) |
+| **Notse / Agbogbome (Gbengbe)** | Haho | Notse, Wahala, Asrama | [Accéder à `notse_agbogbome/`](notse_agbogbome/README.md) |
+| **Agou** | Agou | Agou-Gadzepe, Adeta | [Accéder à `agou/`](agou/README.md) |
+| **Danyi** | Danyi | Danyi-Apeyeme, Atigba | [Accéder à `danyi/`](danyi/README.md) |
+| **Ave / Keve** | Ave | Keve, Assahoun, Noepe | [Accéder à `ave_keve/`](ave_keve/README.md) |
+| **Vo / Vogan (Ouatchi / Waci)** | Vo | Vogan, Togoville, Mome | [Accéder à `vo_waci/`](vo_waci/README.md) |
+| **Yoto / Tabligbo** | Yoto | Tabligbo, Tokpli, Ahepe | [Accéder à `yoto_tabligbo/`](yoto_tabligbo/README.md) |
 
 ---
 
-## Caractéristiques Acoustiques & Tonales (Capital pour l'IA)
+## Caracteristiques Acoustiques et Tonales
 
-L'Éwé est une **langue à tons phonologiques**. Changer la hauteur de voix change le mot :
+L'Ewe est une **langue a tons phonologiques**. Changer la hauteur de voix change le mot :
 
-* **Ton Haut ( ´ )** : `tó` (oreille / montagne)
-* **Ton Bas ( ` )** : `tɔ̀` (rivière / traverser)
+* **Ton Haut ( ´ )** : `to` (oreille / montagne)
+* **Ton Bas ( ` )** : `to` (riviere / traverser)
 * **Ton Moyen (invariable)** : `to` (mortier / buffle)
-* **Ton Montant ( ˇ )** : `tǒ` (beau-père)
-* **Consonnes spécifiques** :
-  * Labio-dentales : `ƒ` (f doux bilabial) et `ʋ` (v bilabial).
-  * Labio-vélaires : `kp` et `gb`.
-  * Rétroflexe : `ɖ` (d rétroflexe, langue repliée vers le palais).
-  * Vélaire nasale : `ŋ` (comme le "ng" de camping).
-* **Voyelles ouvertes et nasales** : `ɔ`, `ɛ`, et leurs équivalents nasalisés `ã, ẽ, ɛ̃, ĩ, õ, ɔ̃, ũ`.
+* **Ton Montant ( ˇ )** : `to` (beau-pere)
+* **Consonnes specifiques** :
+  * Labio-dentales bilabiales : `f` et `v` bilabiales (notées phonétiquement).
+  * Labio-velaires : `kp` et `gb`.
+  * Retroflexe : `d` retroflexe (langue repliee vers le palais).
+  * Velaire nasale : `ng`.
+* **Voyelles ouvertes et nasales** : voyelles ouvertes (`o` ouvert, `e` ouvert), et formes nasalisees correspondantes.
 
 ---
 
-## Où déposer vos fichiers ?
+## Depot des Enregistrements
 
-Déposez directement vos fichiers audio (`.mp3`, `.wav`, `.ogg`, `.m4a`) dans ce dossier (`voix/togo/ewe/`).
-
-### Exemple de nom de fichier :
-* `lome_h32_radio_nana_fm_01.mp3`
-* `kpalime_f45_conte_tortue_02.ogg`
-* `tsevie_h60_proverbe_lododo_01.wav`
+Choisissez directement le sous-dossier correspondant a la variete de votre enregistrement (ex: `kpalime_kloto/`, `be_lome/`, etc.).
+Si vous n'etes pas certain de la variete precise, vous pouvez deposer votre fichier a la racine de `voix/togo/ewe/`.
