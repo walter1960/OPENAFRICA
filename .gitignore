@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Bytecode et cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Variables d'environnement sensibles (tokens API)
+.env
+.env.local
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers audio volumineux (hors petits echantillons suivis explicitement)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+!voix/**/.gitkeep
